@@ -36,9 +36,10 @@ Run SQUIRL OS across **three isolated tenants**: your **personal life**, your **
 | Neural mesh (25 nodes) | — | ✅ | ✅ |
 | PQC stack (Dilithium3 / Kyber-1024 / SPHINCS+-256f) | — | ✅ | ✅ |
 | Cross-app monitoring | — | ✅ | ✅ |
+| White-label rebranding | — | ✅ | ✅ |
 | Hosted hub + kill switch | — | — | ✅ |
 
-Upgrade when you want the mesh. Contact: support@squirlos-technologies.com
+Upgrade when you want the mesh — and when you want to make it **yours**: paid tiers carry full white-label rights (rebrand every surface), while the Jasper runtime stays immutable and Constitution-bound at every tier. Contact: support@squirlos-technologies.com
 
 ## Dual Mesh Benchmark
 
